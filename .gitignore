@@ -77,3 +77,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/ThirdPersonBP/Blueprints/.DS_Store
+Content/materials/.DS_Store
+Content/.DS_Store
+Content/Enviornment/.DS_Store
+.DS_Store
