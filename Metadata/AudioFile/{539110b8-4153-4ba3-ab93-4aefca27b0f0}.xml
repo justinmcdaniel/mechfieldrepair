@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{539110b8-4153-4ba3-ab93-4aefca27b0f0}">
+		<property name="assetPath">
+			<value>metalClang1_Ed.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.7540625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d70a43e6-65cf-44a4-9412-4df5a2b81596}</destination>
+		</relationship>
+	</object>
+</objects>
