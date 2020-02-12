@@ -233,6 +233,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{8da2c8a0-d4b4-45e5-8f0e-b7fc9bcbea2f}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
 		<property name="name">
 			<value>FWorksExplo</value>
 		</property>
@@ -273,6 +276,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{cf0276fb-548a-48cd-90fd-06653d45d071}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
 		<property name="name">
 			<value>BigBangExplo</value>
 		</property>
@@ -313,6 +319,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{30e6717f-3f5d-4559-989e-90f621e3963c}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
 		<property name="name">
 			<value>DistExplo</value>
 		</property>
