@@ -464,10 +464,13 @@
 			<value>496.308167</value>
 		</property>
 		<property name="frequencyD">
-			<value>1988.98267</value>
+			<value>5841.67676</value>
 		</property>
 		<property name="frequencyE">
 			<value>10653.3301</value>
+		</property>
+		<property name="qualityD">
+			<value>0.479999989</value>
 		</property>
 		<property name="gainA">
 			<value>-14.2036839</value>
@@ -479,7 +482,7 @@
 			<value>1.91766143</value>
 		</property>
 		<property name="gainD">
-			<value>6.59804821</value>
+			<value>10.2383528</value>
 		</property>
 		<property name="gainE">
 			<value>3.47779155</value>
