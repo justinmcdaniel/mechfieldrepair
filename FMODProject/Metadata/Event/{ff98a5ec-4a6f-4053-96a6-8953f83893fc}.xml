@@ -223,6 +223,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{750823a3-1d02-428d-b3c5-d1fefa05ed5e}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<property name="name">
 			<value>MechHiPulse</value>
 		</property>
@@ -246,7 +249,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{40d85e0c-4fbb-477b-bca2-3d2294e6f660}">
 		<property name="volume">
-			<value>2.5</value>
+			<value>3.5</value>
 		</property>
 		<property name="name">
 			<value>MechPulse</value>
