@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EncodableAsset" id="{5b49634e-cb5c-48a2-b70d-313db0b94683}">
+		<property name="assetPath">
+			<value>MechAmbience/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d70a43e6-65cf-44a4-9412-4df5a2b81596}</destination>
+		</relationship>
+	</object>
+</objects>
