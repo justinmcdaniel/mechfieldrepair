@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{fed3f9a8-5bd3-4fb8-bb29-9112ba4b060b}">
-		<property name="assetPath" />
+	<object class="AudioFile" id="{e9590b53-934d-4539-bb6b-ea5d4fdb0d9a}">
+		<property name="assetPath">
+			<value>MechAmbience/MechRumble.wav</value>
+		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
 		</property>
@@ -9,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>7.8440937499999999</value>
+			<value>7.8592083333333331</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{d70a43e6-65cf-44a4-9412-4df5a2b81596}</destination>
