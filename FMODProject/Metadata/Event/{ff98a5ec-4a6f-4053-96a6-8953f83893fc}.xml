@@ -123,6 +123,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{da44577f-1d64-462a-92d0-ed9bcfef84cf}">
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{175c3f40-61b8-4f2f-bf6f-686c1d847290}</destination>
 		</relationship>
@@ -149,7 +152,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{91375204-bfed-4cb7-8e72-5f3d1056bb7b}">
 		<property name="volume">
-			<value>-13.5</value>
+			<value>-5.5</value>
 		</property>
 		<property name="name">
 			<value>MechBase</value>
@@ -173,9 +176,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{405dd2e5-65ba-4850-8287-9c9667db067e}">
-		<property name="volume">
-			<value>-2.5</value>
-		</property>
 		<property name="name">
 			<value>MechHaunt</value>
 		</property>
@@ -223,9 +223,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{750823a3-1d02-428d-b3c5-d1fefa05ed5e}">
-		<property name="volume">
-			<value>1</value>
-		</property>
 		<property name="name">
 			<value>MechHiPulse</value>
 		</property>
@@ -249,7 +246,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{40d85e0c-4fbb-477b-bca2-3d2294e6f660}">
 		<property name="volume">
-			<value>4</value>
+			<value>2.5</value>
 		</property>
 		<property name="name">
 			<value>MechPulse</value>
@@ -290,7 +287,6 @@
 		<relationship name="effects">
 			<destination>{a0a2629d-0f3b-488f-ba21-7db592eb7ca9}</destination>
 			<destination>{c8e1a073-5540-46b8-b6e2-9fa8e1a82a83}</destination>
-			<destination>{aca278fb-2ff1-4658-ac6b-66067697d2d0}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6c42ae84-6a00-4ada-ae5c-102e6c92e6fe}">
@@ -385,7 +381,6 @@
 			<value>275</value>
 		</property>
 	</object>
-	<object class="MultibandEqEffect" id="{aca278fb-2ff1-4658-ac6b-66067697d2d0}" />
 	<object class="MixerBusFader" id="{8d4290a0-c4fd-4b9b-86ef-a65d59cbd79d}" />
 	<object class="SpatialiserEffect" id="{65aaa2ce-b763-486f-80c0-6cbf543b6fdc}">
 		<property name="minimumDistance">
