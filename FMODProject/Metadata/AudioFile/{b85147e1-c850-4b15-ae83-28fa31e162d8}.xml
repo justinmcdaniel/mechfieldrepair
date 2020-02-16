@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{85b5186d-a471-4a21-882b-425447721fb1}">
+	<object class="AudioFile" id="{b85147e1-c850-4b15-ae83-28fa31e162d8}">
 		<property name="assetPath">
-			<value>MechHiPulse.wav</value>
+			<value>MechAmbience/MechHaunt.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
