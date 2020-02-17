@@ -251,7 +251,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{750823a3-1d02-428d-b3c5-d1fefa05ed5e}">
 		<property name="volume">
-			<value>2.5</value>
+			<value>4</value>
 		</property>
 		<property name="name">
 			<value>MechHiPulse</value>
@@ -276,7 +276,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{40d85e0c-4fbb-477b-bca2-3d2294e6f660}">
 		<property name="volume">
-			<value>4</value>
+			<value>5</value>
 		</property>
 		<property name="name">
 			<value>MechPulse</value>
@@ -402,7 +402,7 @@
 			<value>20</value>
 		</property>
 		<property name="maximumDistance">
-			<value>500</value>
+			<value>650</value>
 		</property>
 		<property name="extentMode">
 			<value>1</value>
@@ -425,7 +425,7 @@
 			<value>20</value>
 		</property>
 		<property name="maximumDistance">
-			<value>800</value>
+			<value>1500</value>
 		</property>
 		<property name="extentMode">
 			<value>1</value>
@@ -448,7 +448,7 @@
 			<value>20</value>
 		</property>
 		<property name="maximumDistance">
-			<value>800</value>
+			<value>1500</value>
 		</property>
 		<property name="extentMode">
 			<value>1</value>
@@ -466,7 +466,7 @@
 			<value>20</value>
 		</property>
 		<property name="maximumDistance">
-			<value>350</value>
+			<value>550</value>
 		</property>
 		<property name="extentMode">
 			<value>1</value>
@@ -479,6 +479,9 @@
 		</property>
 	</object>
 	<object class="MultibandEqEffect" id="{890d3416-56c5-4c2c-888e-9d85d4f6abf7}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
 		<property name="filterTypeA">
 			<value>9</value>
 		</property>
@@ -550,7 +553,7 @@
 			<value>20</value>
 		</property>
 		<property name="maximumDistance">
-			<value>350</value>
+			<value>550</value>
 		</property>
 		<property name="extentMode">
 			<value>1</value>
@@ -648,10 +651,10 @@
 	</object>
 	<object class="AutomationPoint" id="{0d7ea8e3-529d-422d-983b-b7f205914357}">
 		<property name="position">
-			<value>750</value>
+			<value>564.40677966101691</value>
 		</property>
 		<property name="value">
-			<value>200</value>
+			<value>120</value>
 		</property>
 	</object>
 </objects>
