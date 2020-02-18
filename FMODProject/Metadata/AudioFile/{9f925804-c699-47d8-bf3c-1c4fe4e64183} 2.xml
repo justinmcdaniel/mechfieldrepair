@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9f925804-c699-47d8-bf3c-1c4fe4e64183}">
+		<property name="assetPath">
+			<value>SktBrd_RollSFX_Mono.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>30.064406250000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d70a43e6-65cf-44a4-9412-4df5a2b81596}</destination>
+		</relationship>
+	</object>
+</objects>
