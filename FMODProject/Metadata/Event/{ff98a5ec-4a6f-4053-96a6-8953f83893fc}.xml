@@ -251,7 +251,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{750823a3-1d02-428d-b3c5-d1fefa05ed5e}">
 		<property name="volume">
-			<value>4</value>
+			<value>7</value>
 		</property>
 		<property name="name">
 			<value>MechHiPulse</value>
@@ -401,9 +401,6 @@
 		<property name="minimumDistance">
 			<value>20</value>
 		</property>
-		<property name="maximumDistance">
-			<value>650</value>
-		</property>
 		<property name="extentMode">
 			<value>1</value>
 		</property>
@@ -463,7 +460,7 @@
 	<object class="MixerBusFader" id="{cc5f84aa-99c4-4af9-8cb7-9f5e2c1d8746}" />
 	<object class="SpatialiserEffect" id="{41b23140-28d8-4c23-ba09-83b6fcb9445c}">
 		<property name="minimumDistance">
-			<value>20</value>
+			<value>35</value>
 		</property>
 		<property name="maximumDistance">
 			<value>550</value>
@@ -479,9 +476,6 @@
 		</property>
 	</object>
 	<object class="MultibandEqEffect" id="{890d3416-56c5-4c2c-888e-9d85d4f6abf7}">
-		<property name="bypass">
-			<value>true</value>
-		</property>
 		<property name="filterTypeA">
 			<value>9</value>
 		</property>
