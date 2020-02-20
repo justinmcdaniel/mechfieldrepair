@@ -104,7 +104,7 @@
 			<value>6.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>CollectEmit</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{f935354e-1904-40c8-9b00-f2d058afe613}</destination>
