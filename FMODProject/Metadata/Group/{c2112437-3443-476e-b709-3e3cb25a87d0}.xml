@@ -5,7 +5,7 @@
 			<value>-4</value>
 		</property>
 		<property name="name">
-			<value>Music_Ambience</value>
+			<value>Ambiences</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{9704145f-a8ff-4875-b03c-f6ec4309b646}</destination>
