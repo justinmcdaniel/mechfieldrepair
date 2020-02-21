@@ -17,17 +17,24 @@
 	<object class="MixerBusEffectChain" id="{9a85f029-dd50-42ea-b29e-0db8a43edaba}">
 		<relationship name="effects">
 			<destination>{52430f80-ab49-4490-b753-4c58fe89f187}</destination>
-			<destination>{70a683bf-ce44-4de6-9fbf-9b023627bfba}</destination>
+			<destination>{8f88b4f8-bec4-4993-b384-69d4c19d4ae2}</destination>
 		</relationship>
 	</object>
-	<object class="MixerBusPanner" id="{7acdef62-303f-4131-be6c-f4739fd2b739}" />
+	<object class="MixerBusPanner" id="{7acdef62-303f-4131-be6c-f4739fd2b739}">
+		<property name="overridingOutputFormat">
+			<value>1</value>
+		</property>
+		<property name="outputFormatOverridden">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{52430f80-ab49-4490-b753-4c58fe89f187}" />
-	<object class="CompressorEffect" id="{70a683bf-ce44-4de6-9fbf-9b023627bfba}">
+	<object class="CompressorEffect" id="{8f88b4f8-bec4-4993-b384-69d4c19d4ae2}">
 		<property name="threshold">
 			<value>-37</value>
 		</property>
 		<property name="ratio">
-			<value>2.99999976</value>
+			<value>3</value>
 		</property>
 		<property name="attackTime">
 			<value>24</value>
